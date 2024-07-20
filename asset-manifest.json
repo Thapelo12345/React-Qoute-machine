@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Qoute-machine/static/css/main.fc4ba06b.css",
+    "main.js": "/React-Qoute-machine/static/js/main.60a2d2cd.js",
+    "index.html": "/React-Qoute-machine/index.html",
+    "main.fc4ba06b.css.map": "/React-Qoute-machine/static/css/main.fc4ba06b.css.map",
+    "main.60a2d2cd.js.map": "/React-Qoute-machine/static/js/main.60a2d2cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc4ba06b.css",
+    "static/js/main.60a2d2cd.js"
+  ]
+}
